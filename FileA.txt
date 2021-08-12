@@ -1,1 +1,3 @@
 "This is FileA" 
+Today is Thursday
+The 12th of August.
